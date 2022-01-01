@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357039792492",
+    "project_id": "tele-konsul",
+    "storage_bucket": "tele-konsul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357039792492:android:3bbcbf14a0c90b1bb69349",
+        "android_client_info": {
+          "package_name": "com.example.telekonsul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357039792492-g7l8hpqbv9hnd6p3hck152qvq02cfo1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShpxgOgRpZOrKP5Z0I5fv7JXkk3tdQ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357039792492-g7l8hpqbv9hnd6p3hck152qvq02cfo1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
